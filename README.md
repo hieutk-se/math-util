@@ -1,6 +1,6 @@
 ## Welcome to Math Utility Repository. This repo offers various math methods used as a helper for your project.
 
-### You will find in this repo the following stuff:
+### _You will find in this repo the following stuff:_
 
 * .gitinore itself to demostrate how Git tool will upload a file or not
 * README.md itself file to introduce the contents of this repo
@@ -8,7 +8,7 @@
 * (TBA...)
 
 ### Connect me via:
-[My facebook](https://facebook.com/trankim.hieu.35)
+[My facebook](https://facebook.com/trankim.hieu.35)  
 [My email](hieutk.se@gmail.com)
 
 © 2021 hieutk-se
