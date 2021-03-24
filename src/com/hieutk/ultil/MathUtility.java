@@ -29,7 +29,7 @@ public class MathUtility {
             return 1; //khỏi mất công tính, return ngay
         
         //Sống sót đến đoạn này, sure n = 2..20
-        long result = 0; // Cố tình để value này
+        long result = 1; // Cố tình để value này
         
         for (int i = 2; i <= n; i++) 
             result *= i;
